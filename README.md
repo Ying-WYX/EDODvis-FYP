@@ -37,6 +37,9 @@ This project aims to value-add to SINEW's existing research on early detection o
 
 All of which can be accessed remotely through a mobile responsive web application.
 
+### Development
+setup : environment python 3.9
+
 ### Built With
 
 - [Django REST Framework](https://www.django-rest-framework.org/)
